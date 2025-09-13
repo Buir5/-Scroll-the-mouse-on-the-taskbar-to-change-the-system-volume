@@ -1,3 +1,5 @@
+下载最新版：https://github.com/Buir5/-Scroll-the-mouse-on-the-taskbar-to-change-the-system-volume/releases/download/%E7%B3%BB%E7%BB%9F%E9%9F%B3%E9%87%8F/Project1.exe
+
 鼠标滚动任务栏空白处 调整系统音量
 增加系统自启动项
 重新HOOK项
